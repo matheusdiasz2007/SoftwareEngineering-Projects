@@ -1,7 +1,5 @@
 # Projects: Front-End
 
----
-
 <img src="https://skillicons.dev/icons?i=js,bootstrap,jquery,materialui" />
 
 ---
