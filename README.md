@@ -1,8 +1,8 @@
              **********     
             **** *******    
-            ***   ******    Sejam Bem-Vindos.
-            ***********      
-             *********      
+            ***   ******    Welcome.
+            ***********                        
+             *********                        See the Portuguese version of the projects in README.pt.md
            *************    
           ***************   
          *****************  
